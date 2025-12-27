@@ -1,17 +1,16 @@
-import React from 'react';
 import { useLoaderData } from 'react-router';
 import TrendingApp from '../../components/TrendingApps/TrendingApp/TrendingApp';
 
 const Apps = () => {
     const allAppsData = useLoaderData()
-    console.log(allAppsData)
+    // console.log(allAppsData)
 
     return (
         <div className='flex flex-col items-center mt-16'>
             <h1 className='text-[#001931] text-4xl font-bold'>Our All Applications</h1>
             <p className='text-[#627382] text-xl mt-4 mb-10'>Explore All Apps on the Market developed by us. We code for Millions</p>
             <div className='w-full flex items-center justify-between mb-6'>
-                <p className='text-2xl font-bold'>(132) Apps Found</p>
+                <p className='text-2xl font-bold'>(<span>{allAppsData.length}</span>) Apps Found</p>
                 <label className="input bg-transparent outline-0">
                     <svg className="h-[1.8rem] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <g
@@ -31,7 +30,7 @@ const Apps = () => {
 
             <div className='grid grid-cols-4 gap-6'>
                 {
-                    allAppsData.map(app => <TrendingApp app={app} />)
+                    allAppsData.map(app => <TrendingApp key={app.id} app={app} />)
                 }
             </div>
 
