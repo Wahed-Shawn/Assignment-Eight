@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.active {
+    background-image: linear-gradient(to bottom right, #632EE3, #9F62F2);
+    background-clip: text;
+    color: transparent;
+    text-decoration: underline;
+    text-underline-offset: .3rem;
+}

@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/512px-Instagram_logo_2016.svg.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instagram is a premier visual social networking service that empowers users to capture, customize, and share life's moments through high-quality photos and videos. Beyond its core feed, the platform offers dynamic features like Reels for short-form entertainment, Stories for fleeting daily updates that vanish after 24 hours, and IGTV for long-form content. With advanced editing tools, creative filters, and a robust direct messaging system, it serves as a global hub for personal expression, influencer marketing, and brand storytelling.",
+    "size": 195.4,
+    "reviews": "24.5M",
+    "ratingAvg": 4.7,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 1500000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 17000000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/512px-Spotify_logo_without_text.svg.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Spotify is a leading digital music and podcast streaming service that provides instant access to a library of over 80 million tracks and millions of podcast titles. It utilizes sophisticated machine learning algorithms to offer highly personalized discovery features such as 'Discover Weekly' and 'Daily Mixes.' Users can curate their own playlists, follow favorite artists, and enjoy seamless playback across multiple devices. Its social integration allows for real-time collaboration on playlists and sharing music trends with friends globally.",
+    "size": 158.2,
+    "reviews": "28M",
+    "ratingAvg": 4.8,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1100000
+      },
+      {
+        "name": "4 star",
+        "count": 5000000
+      },
+      {
+        "name": "5 star",
+        "count": 21000000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png",
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "description": "WhatsApp Messenger is a globally recognized cross-platform messaging service that enables free, real-time communication using an internet connection. It prioritizes user security with end-to-end encryption for all text messages, voice calls, and video chats, ensuring that personal conversations remain private. The app supports rich media sharing, including high-resolution photos, videos, voice notes, and documents. With additional features like 'Status' updates and group chats for up to 1,024 participants, it has become the essential communication tool for billions worldwide.",
+    "size": 95.1,
+    "reviews": "170M",
+    "ratingAvg": 4.7,
+    "downloads": "5B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 3000000
+      },
+      {
+        "name": "3 star",
+        "count": 9000000
+      },
+      {
+        "name": "4 star",
+        "count": 25000000
+      },
+      {
+        "name": "5 star",
+        "count": 125000000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is the world's most expansive video-sharing platform, serving as a primary source for entertainment, education, and news. It allows users to discover a vast array of content, from official music videos and professional documentaries to DIY tutorials and live gaming streams. Creators can build massive communities by uploading their own videos, while viewers can engage through comments, likes, and channel subscriptions. Its advanced recommendation engine tailors the viewing experience to individual interests, while YouTube Shorts provides a modern take on bite-sized vertical video content.",
+    "size": 254.8,
+    "reviews": "140M",
+    "ratingAvg": 4.5,
+    "downloads": "10B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 10000000
+      },
+      {
+        "name": "4 star",
+        "count": 25000000
+      },
+      {
+        "name": "5 star",
+        "count": 90000000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/512px-TikTok_logo.svg.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "TikTok is the premier destination for short-form mobile video, known for its highly addictive 'For You' page that curates content using advanced AI. It provides users with powerful, easy-to-use editing tools, an extensive library of licensed music, and innovative AR filters that allow anyone to become a content creator. From viral dance challenges and comedy sketches to informative 'EduTok' segments, TikTok has redefined how cultural trends are born and shared across the globe, fostering a vibrant and highly engaged community of creators.",
+    "size": 312.0,
+    "reviews": "55M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 2000000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 35000000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/512px-Slack_icon_2019.svg.png",
+    "title": "Slack",
+    "companyName": "Salesforce, Inc.",
+    "description": "Slack is an enterprise-grade collaboration platform that transforms how teams communicate by moving conversations into organized channels. It effectively replaces fragmented email threads with a centralized hub for real-time messaging, file sharing, and voice/video huddles. By integrating with over 2,400 external applications like Google Drive, Jira, and Zoom, Slack streamlines workflows and ensures that all team members remain aligned and productive. It is the essential workspace for modern companies, supporting both office-based and remote work environments.",
+    "size": 124.5,
+    "reviews": "850k",
+    "ratingAvg": 4.2,
+    "downloads": "50M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50000
+      },
+      {
+        "name": "2 star",
+        "count": 40000
+      },
+      {
+        "name": "3 star",
+        "count": 110000
+      },
+      {
+        "name": "4 star",
+        "count": 250000
+      },
+      {
+        "name": "5 star",
+        "count": 400000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/512px-2021_Facebook_icon.svg.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Facebook remains a foundational social utility that helps billions of people connect and share with their personal networks. The platform offers a diverse ecosystem including 'Groups' for community building, 'Marketplace' for local buying and selling, and 'Events' for organizing social gatherings. Users can post text updates, high-definition photos, and engaging videos to their personal profiles or business pages. Its sophisticated news feed keeps users informed about global events and personal updates from friends, making it a comprehensive digital space for social interaction.",
+    "size": 245.0,
+    "reviews": "125M",
+    "ratingAvg": 4.1,
+    "downloads": "5B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15000000
+      },
+      {
+        "name": "2 star",
+        "count": 8000000
+      },
+      {
+        "name": "3 star",
+        "count": 12000000
+      },
+      {
+        "name": "4 star",
+        "count": 30000000
+      },
+      {
+        "name": "5 star",
+        "count": 60000000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/512px-Netflix_icon.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is the world's leading subscription-based streaming service, providing a massive catalog of award-winning television series, blockbuster movies, anime, and original documentaries. It offers a seamless, ad-free viewing experience across a wide range of devices, including smart TVs, smartphones, and gaming consoles. With features like offline downloads for mobile devices and highly refined user profiles that provide intelligent content recommendations, Netflix ensures that every member of the household has a tailored entertainment experience.",
+    "size": 85.3,
+    "reviews": "15M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 2500000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_Bélo.svg/512px-Airbnb_Logo_Bélo.svg.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb is a revolutionary travel platform that connects adventurous travelers with unique lodging and authentic local experiences worldwide. From cozy cabins and rustic treehouses to luxury villas and chic urban apartments, the platform offers millions of diverse listings in over 190 countries. In addition to accommodation, Airbnb 'Experiences' allow travelers to participate in expert-led activities such as cooking classes, guided tours, and outdoor adventures. Its robust review system and secure payment processing ensure a safe and trustworthy community for both hosts and guests.",
+    "size": 220.1,
+    "reviews": "1.2M",
+    "ratingAvg": 4.8,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40000
+      },
+      {
+        "name": "2 star",
+        "count": 20000
+      },
+      {
+        "name": "3 star",
+        "count": 80000
+      },
+      {
+        "name": "4 star",
+        "count": 260000
+      },
+      {
+        "name": "5 star",
+        "count": 800000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Duolingo_logo.svg/512px-Duolingo_logo.svg.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Duolingo is the world's most downloaded education app, offering a fun and completely free way to learn over 40 different languages. It utilizes a gamified approach with bite-sized lessons that focus on speaking, reading, listening, and writing skills. Science-based teaching methods are integrated into the curriculum to ensure long-term retention, while features like daily streaks and leaderboards keep users motivated. Whether you are a beginner or looking to polish your skills, Duolingo makes language learning accessible and enjoyable for everyone, regardless of their background.",
+    "size": 110.0,
+    "reviews": "18M",
+    "ratingAvg": 4.9,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 450000
+      },
+      {
+        "name": "4 star",
+        "count": 2300000
+      },
+      {
+        "name": "5 star",
+        "count": 15000000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pinterest-logo.png/512px-Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is a unique visual discovery engine designed to inspire users through billions of 'Pins' covering topics like home decor, fashion, recipes, and DIY projects. It serves as a digital mood board where users can curate and organize ideas into specialized 'Boards' for future reference. Whether you are planning a dream wedding, a home renovation, or your next travel itinerary, Pinterest provides a rich visual landscape for creative planning. Its sophisticated image search technology also allows users to find products and similar styles simply by using their camera.",
+    "size": 105.4,
+    "reviews": "9M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 1600000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/512px-Uber_logo_2018.svg.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Uber is a pioneer in the ride-sharing industry, providing a reliable and convenient transportation solution at the tap of a button. The app connects passengers with nearby drivers for a variety of needs, ranging from budget-friendly UberX rides to premium Uber Black services. Users can track their driver's location in real-time, view upfront pricing, and enjoy cash-free transactions. Safety is prioritized through features like ride-sharing with trusted contacts and an in-app emergency button, making it a trusted choice for urban mobility in thousands of cities across the globe.",
+    "size": 210.3,
+    "reviews": "11M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1200000
+      },
+      {
+        "name": "4 star",
+        "count": 2600000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a high-speed, cloud-based messaging app that emphasizes user privacy and data security. It allows for the creation of massive group chats with up to 200,000 members and the broadcasting of messages to unlimited audiences through channels. A standout feature is its 'Secret Chat' functionality, which offers end-to-end encryption and self-destructing messages. Telegram also supports the sharing of large files up to 2GB each and provides a robust platform for developers to build powerful bots, making it a favorite for both personal and professional communication.",
+    "size": 132.7,
+    "reviews": "12M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 600000
+      },
+      {
+        "name": "3 star",
+        "count": 1400000
+      },
+      {
+        "name": "4 star",
+        "count": 2800000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Reddit is a sprawling network of communities, known as 'subreddits,' where users can deep-dive into any interest, hobby, or niche passion imaginable. It serves as a democratic content aggregator where posts are upvoted or downvoted by the community to determine their visibility. From breaking news and expert advice to hilarious memes and deep-dive theories, Reddit offers a space for authentic conversation and community engagement. Its anonymous nature encourages honest discussion, making it one of the most influential and informative social platforms on the internet.",
+    "size": 142.0,
+    "reviews": "3.5M",
+    "ratingAvg": 4.1,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 250000
+      },
+      {
+        "name": "3 star",
+        "count": 450000
+      },
+      {
+        "name": "4 star",
+        "count": 900000
+      },
+      {
+        "name": "5 star",
+        "count": 1500000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/512px-LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corp.",
+    "description": "LinkedIn is the world's largest professional networking platform, essential for career management and business growth. It allows users to create a comprehensive digital resume, showcase their skills, and connect with colleagues, industry leaders, and recruiters. The platform features a robust job search engine, professional development courses via LinkedIn Learning, and a news feed for sharing industry insights and thought leadership. Whether you are seeking your next career move or looking to build your professional brand, LinkedIn is the primary hub for the global workforce.",
+    "size": 168.0,
+    "reviews": "4.2M",
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 700000
+      },
+      {
+        "name": "4 star",
+        "count": 1000000
+      },
+      {
+        "name": "5 star",
+        "count": 1800000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/512px-Twitch_Glitch_Logo_Purple.svg.png",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive, Inc.",
+    "description": "Twitch is the world's leading live streaming platform, primarily focused on gaming content, eSports tournaments, and creative arts. It offers a highly interactive experience where viewers can engage with their favorite broadcasters in real-time through live chat, bits, and channel subscriptions. Beyond gaming, Twitch has expanded to include 'Just Chatting' streams, music performances, and live talk shows. The platform's unique community-driven culture and monetization options for creators have made it the go-to destination for live digital entertainment and social gaming.",
+    "size": 122.9,
+    "reviews": "5.1M",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 450000
+      },
+      {
+        "name": "4 star",
+        "count": 1200000
+      },
+      {
+        "name": "5 star",
+        "count": 3000000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABI1BMVEX/////MAj///7+//3//f/8////KgD+//z//v3///v//f7+MQbhfmj/LwD8//v/KQDkPRznSzDbbVfoq5v/9/T///jlORfzHwDmppfgZUz9MAvlLAD/LA3oYUz5IwD/+e/uJADpvrH4NAj53NX+6uPuGgD/8e399OnzysP/6ub///Ppg3b10sL44dfz0sHcgHDleGzst67vuajmn5XiNQDllIHea1XfYEv63tvkmIX/8vbhgWXhUj363snmoo3hiG3haVnbEADePyTcVD/nZUvfjGjbUy7jjYDee23lyL3grZvdPhPnWUjwx7XjNxvpkobfSDT5wKvob2D0wrvvransTj7ud2nOPxzabk/aWDbirabSTDfOXkbgpYryu7rZjn3SHADDeLiPAAAQGklEQVR4nO1cDVvbOLqVLclfimw+YkxsV3FxQmhJCg0QYIYCk3ZL53aYdpfdmZ27M3f3//+Ke+Q4pdAyDXTnIcyj81BoHEfS0fstySHEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA4FO4QRywYGZMPlT/n4YhJZx4BL/mFjZnLud0BtgVeIXJFQ5eAfNJ4IbeffO4GT4j9Ksa4AENKzHOKyh9trXduCvOdp6X6xCkN8daStZ/VMK5G6TjqKRYWBr25tkO6aAr09z6CjhOMt5pV43Z90zms2BeQ1mpJUSeijtSFEImu+cEthjOI0UaNkcqzy3QS+/M0LLWir2nIQvum83nEDLWbilhrYmvYmjJZCmez5gREMbjkYIU7sgP0PqdW8XS07n0N4jWLGyPIEXrrnaIT1biT/bum8znERKbEU3xrg41nbKUxfl9k7kZrL2UQIYCwpB3lSMMOVsPA1j2fbP5HGjcbCkrv6uvqUQJhsmZ7Qfu12WBfwxsn5P1/a/zqFU4zQ4I9eaRIfwp482JR72zv0mFEGobefxcailBRRT3oKjWnTMbfDQVMivvm8kN4IT5lPT27+5RJxOTJ4eExfOYu5FJ1twExVvYYZpf12khd2M+l7nbBKH9zXah5GwQ+Mnhma5xLPpzzTCk5OLbhYWVa1j4GB9dz7pOfrXyErk6/Mo1gz8UNgsp/zA++4v1XtD/ZyLWrjKMRvPMkDNGgip7Dki9/OS6+PnoFltfofqKTeyQ0011xW6F5Sw25zL/ngDVj+2Saklt8rvGRy9ItdRWXcEHKGsfOVcZyt31+6bxO7i1l0c9OEyuxYxsMMcyvC1sysMXxbUQkpV/IoYeZ3SQXQ2RVvFnYmhTRi6uyhB5W+dPxJBTHo+ueBrLkivN+x7WfxM+Ob5uhvIonuOc5mNQEuidF+Tj7o33eC9OimsrWCJqzPMexhUgdFB/uLR0ejpaugFHmZLXK2a1PM8r/FfgU8bL7xwnkjdva0ghrtci3cE8Z20fI3DB8PtE5rdbmnKOCHHntD68BrgL5jYXo6o8EtdRexVLXF8SKKCk/gNhqJNv0hnL36mI00/ek2/XH4wZ1ui8j7SchJV/Yf1m4nKSHeLPcwX8KdywM1aa3hfXp0SeylSO112Phfc96lvB450xpKj3F3+fYQ6bTLtDVGDBw1JTBorvHStPvyhFIfNoCQW07z0oLeWckbCzqL683g8tdRZ7qIndh8XQ4wiMRCvql1b7U8vZLTEhMX9YSlqj8qia4lVdnbwQaY7kNI12n+lA8TBi4XVoj+poOmufnNpINT9NXo1Lwudzx2IGoMqYKOonHhWxskpMZXfUAcGby5B5R+1RUyE/51FTkSwMcZc3l4dNZgIciD0J/Z/xN6kqxjtPUItwbj9IJ6OhT63Bo75MVHS1eoqipMiWLtZJiPc5YQ+W4QS8PXzz6IdHH+FVq7Har5ZlHqx6XgW34XMma/1+BZtQ/jDD3w3g8CRXhBXAQsmDymB+HxUVbn98bBjXXP++x/XfA/8kY+EcdfKfxAQ1uG1P9tWmCFhAwwey7DQz7OsS++SCgYGBgYGBgYHB3XDtfJp9/c3PXP3s3TclaPaNLz5/yb72n9vmfS7VG2PIkasx6RdhgMKuXuejLAj9IKSMBTYn7LL2cfWzoNzWz4gyipJhuhfv2gF1dZEbED8I+HRQlBG0E1AfmXhIUSdO2wmpbTNG8f60Mg79qnau2kJrtqsfHgrRDfH1qX7GQx4y7tkzp/A2tSd1TtUo2vMDFAF2vR8Ueh6pqjrXJrGn93nr65gJ5tq261M7xO207m9S8tYH2hihNXHb0wQ4p5gV8MOHp+MLNDUPv6YXWMgYd10PHeqnTamLO+IYrDwS6ANy6JcFjGPGZ2Woxccvq1KuH/EMCa+rHkar9bCg2qbFREyZVE/K4h2/HU8aqZl7/PLZgsD2gw9rTZfLatQLeOyxaecx06tWkFo9GZAY1SvF8XqT1BbDtez0FATUdilmVg+PzcyQEwykPD7eazR++nZveWOdBFDF6Wo0/nSWX+1mxUprp6T8g5J60KVg4y+vsyJ7O3p+ebrQba5OnjDdOtkbdmzu1bpQ7p2d7W1t7R0PBz6Gx2ndUIDZvGhsvXnTqXfzbZ/5HuntvNQtb23AYJjeuSkPdw6/xwQTj4bu/7xp/PsWW8e2tonlRKnIiSKlkvFZB3Y1Zej3NrMi0ovUUmVbnct54bT/slCOI6WMkrfDuGbCm4vKEVFUNZWdNVktmWOlr6ATlb1ebgdk+tQaLDI40ndvTR2IC2lfvFXSyi2piu310OfM48cJbnG1hsFOf1BR98XsT9r4Hg/JsqpIVE/Nqbfn0Mpa18qxkrmQYKLfGZfTUwWht5M51WfwqVR238R1c+1FPbYKuVT7vXqmV5UQ+jp6cIqX5eVyFCX9Is1T+WOvvgD7eqablpjyXKhffW035FCl0aa+3WXMfyWtbt+f+ZyRq7dgl5VM0ywrIJVUyGLoVk8IMFJ+51giKlaOftlNhEhF1ufaZtHnu25qyShbfLSYJTK11FLMGQXN5iJGV6ClrJC5lbype8EU5qJbdKsOouxFUGsprKlRPZeihvpsJuMwdPdndFq832wsdp2sT2IK8b5TefRt5aHgUh85VtKfOWjYrnZry5jioxcHG+eHi8pK8+8GIBGEvPc+SlN1NOw12frwSEFY79f1A/mcPy4gkOKsv86anXcZJJMcIrLA92iGaqd8UW48X3SEWKkVe0dZ8vVfzy+GWwtQCvl2qu8haVenMVOn5Wm3pBcby660ih2IqLn8vs9dpv3zmVqLGggXduzRWDP8fuZzRlOGqTOytSU3z7rCcvY9rs3zHUgl209DGCb1m9sFVOcQXoLxdiYtmQ1J4Plg9WIBUsxKeEW7Yoju9fmKF7vSUs8n3awmwhlV/+ssJSJXjbp3nzxXUI01KE4JnQldsHycWM5Ckz8NOW/ajDJEWDAU0Rv9LBJa9iYMZ0XNMMkxAB/BkMdozCo2EAHZkxWZqn3tDZhW5Xg/EmnW1k/TabMqhjrsE4RrcoBZj7b0RsSE4WOMgxG2L9PoeNLNbyp3WgipMSf+kkplMZhcD7wfhFDHo8iKThBAdUJAHhfCqR4W8n3mIaxQjHAz0h2ALTg+hR2ii1syVJbYRgxgzHXbK06utqjnM62KWckwKkYR4nlZVE37ASxByH2PhXqNHslFfKKEHK/rGF8xPIcqu/zpkZOqmuGqspxWrDMSzjsrUqidyXX+rJCi2xl2rXy3h8DgIknqQIvE4nIncEMEExpOGTbcmPlh4MeP7sRQONvQMR8RjOxhNC894pOzSDj7sdYLbR42nFiURmfQ36bWv2G1QI98AUlVH36oW+qwXjPU0WoIdUyGU4YSTeljDEiMtqNcvqr7P4GB/kI6u/jUc4hIJ3RkSWmPm/3tcRPZ0VSGuVg4bbX2W63W6YqQd5GhA9NgsYsoM1Q5BAKG+5GlTpBG1X7ZhTWkzil8WFkIq1vy6cPmAYE+W+pCHzrQDOXoZOuscVSI1Jq6FMgwalGd5lS9wdcgI0WLvRWZJ7DVLTDY1yau87reKEF0ckSSbQ4I0rOJDNP6yGMV1MDwtp6mYojshoT8cbLmLKxDCPuwrj0S2h+C114EXcPfEv6ve0DDKXPeW4DiXWgHXkULJ0KA10cUk1pJpwwn2e8QLmvXr6ZmCOX5sUfJs8ogiIvcDGJs/706iYo2s3ModsWwOvOwNjmmckeGSzr8wqx0cHTGTWjUEhg2SDzNjzjZFla0hMTiYNfSzqjepHYDMoBvRYjyJr5Un7+s9re7WzG7yrDCDqx2ARk1dOMVQt8rhJZ+lubqnd6tgnuGGJ+WhyuJk6fOyoBPGKZSdWvcVYanBLVQCJNDr1HLBcPjyJKLl+fMg95YWDpc8OYYurU3zey8kEOxrWzwgWEBIINBjJzm9JcMoRGtyBIj/PX5oGul6VqSdItcWBLTagcIxBxeDvdu/AQvpDbtiqH2VC/K8lkJ/ODclSFch09ov5vCf3O4yI0Ck7VMpt8TZC8XIoc/gam8iVJnYZpncfL0Pcxm3+eetkNIc7m/MfwRUWD1Q7n6gSH16DmsWC2Dqg+npjM5aQknTRGjhjoVR07MUUAhdpFGtCbftycyzKMGt3URQtzRrRhWnqpiuD8xks6iTGXW0elG/BpeA6KpGR7sIhtZ1LUe6XeFRKI2ua4zA6RZq5WSa4bdASS3k1hypWd/yEtrhjbtvXVSudshYUCbYyddUxMgvRctlEUoAnVto1M4cg7PhiBUyTB1tkAd5Vnond6OYaALnFWVi39Ax0hviCgvdApGeMwvkFs6KxeVptHHGTKX6XcEjJBnqlGnqiJ7W1BJ53Ub6UdYaWl3ANG1IVe1d8kwldpHkfY5nJKFMEk9xodwt8XmGQqrvb2f1uCfn3D9LNz5z5NY4I+gukdN3cYZ4hQifhBiivxWlKrz2QvgQK8gQIYyO2k0WmOk0SLab3pQCJf5W8hvRNFaPj9f3YduyeSk/tSTBSe1xMrJcOPicKxSJG19gmKW8W/+EWlN9lz+PLFEVtby/w0djDffvWu8LuA/1H6bBagHT1Fo6VyOa9teQKJxqNcANgqZ/O2vg875KeKi2tNZgs4f4ez1HjmC6j4CycbsT4DbOqzp6ilXkYzg2pwENQ9DJYpkLf4n0hgUgEWRoIjKk6XmdHWjzJDCRSopEl1eOd0hZA6vy9uVDDkSTvILkrZR7Wl2oCRCRWuR/lYbtdhjekVCe+DiPNQrOowh9udisUm596tKLSdBpeNANWAkHMUnMne4dbhtN+Z0FGmGsx43gkOBdq8muv6Tk0L3sIm5cuE1QqRre7pWQ2mnK93scLpMgwl88rJwpMjhKdacZIxYqO2ZMjCU3UF1Rx86jpFUWK2+KUSgFUdlm00e6vLpENY//sZ2uR/C7g66luhecJ+3l4r6ySEMpo+ReJwfKxmd6OoJPj5+FUmd3M8qQqoXsv73uwJzlmXZ7st3A14tDMEekPlinKMMYoK0Vhqly0ktwzjk3vJRoV1Ekrw/7MELV0kcb/8ry/5zoNeeKN8sut1fJ/f/1u1C3ElSZOPtUntYLwjYz+hxT3+VG2YyDMm/EGO2dHFh/99LqIZeJDgtdUmFn+F/VrJ/w6fpRav4FF0M+Oy+VFcRvYODwaAcDA46T+lkkUx7Lb3yhgYHf3/TaixvdPTC11T7A8+jtl8+PzzcW+2DX0iqUQYuedIZdALftRHv4rLfr2uI3kZ/YwP/ysE6hQA5tTFFA3TY9KlLaYgagvYwgI5H9YP+cfl853Dn8YD5cKzIKEjzSae3TlADaGfT6zwZBF9zauUP32m3r7+0P1o8/qR3s/FvYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBg8NDx/6G1Zc0SdHjHAAAAAElFTkSuQmCC",
+    "title": "DoorDash",
+    "companyName": "DoorDash, Inc.",
+    "description": "DoorDash is a leading on-demand food delivery service that brings a diverse selection of local and national restaurants directly to your home or office. The app features an intuitive interface that allows users to browse menus, customize orders, and track deliveries in real-time. With the 'DashPass' subscription, users can enjoy unlimited $0 delivery fees on eligible orders, making it a cost-effective choice for frequent diners. Whether you are craving a quick burger or a gourmet three-course meal, DoorDash provides a seamless and efficient way to satisfy your hunger.",
+    "size": 135.2,
+    "reviews": "14M",
+    "ratingAvg": 4.8,
+    "downloads": "50M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 100000
+      },
+      {
+        "name": "3 star",
+        "count": 700000
+      },
+      {
+        "name": "4 star",
+        "count": 3000000
+      },
+      {
+        "name": "5 star",
+        "count": 10000000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/512px-Amazon_logo.svg.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "description": "The Amazon Shopping app provides a comprehensive and secure e-commerce experience, allowing users to browse and purchase millions of products across every category imaginable. It features powerful tools like camera-based product searching, real-time order tracking, and one-click purchasing. Integration with Alexa allows for hands-free shopping and voice-activated list management. With detailed customer reviews, expert recommendations, and the benefits of Amazon Prime, the app ensures that users can shop with confidence and convenience from anywhere in the world.",
+    "size": 178.5,
+    "reviews": "6.8M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 450000
+      },
+      {
+        "name": "4 star",
+        "count": 900000
+      },
+      {
+        "name": "5 star",
+        "count": 5000000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.pinimg.com/736x/d5/7f/ef/d57fef6ce88c5caa0759c1b19f5ca6da.jpg",
+    "title": "CapCut",
+    "companyName": "Bytedance Ltd.",
+    "description": "CapCut is a versatile, all-in-one video editing application designed to help users create professional-looking videos with minimal effort. It offers an impressive suite of tools, including multi-layer editing, auto-captions, 3D zoom effects, and a massive library of trending music and sound effects. Its user-friendly interface makes high-quality video production accessible to beginners, while advanced features like keyframe animation and chroma key satisfy experienced editors. It is the go-to tool for creating high-engagement content for social media platforms like TikTok and Instagram.",
+    "size": 240.2,
+    "reviews": "8.5M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 900000
+      },
+      {
+        "name": "4 star",
+        "count": 1700000
+      },
+      {
+        "name": "5 star",
+        "count": 5000000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "description": "Microsoft Outlook is a premier professional communication tool that seamlessly integrates email, calendar, and file management into a single, highly productive application. It features an 'Intelligent Inbox' that prioritizes important messages and a powerful calendar for scheduling meetings and managing complex agendas. With built-in security features like data encryption and spam filtering, it ensures that your professional communications remain secure. Its deep integration with the Microsoft 365 suite makes it an indispensable tool for individual productivity and enterprise-level collaboration.",
+    "size": 198.3,
+    "reviews": "9.8M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 1400000
+      },
+      {
+        "name": "5 star",
+        "count": 7000000
+      }
+    ]
+  }
+]
