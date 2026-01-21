@@ -3,9 +3,11 @@ import useFetchApps from '../hooks/useFetchApps';
 import AppCard from '../components/AppCard';
 
 const Apps = () => {
-    const[search,setSearch] = useState('')
-    const{apps} = useFetchApps()
-
+    const { apps } = useFetchApps()
+    const [search, setSearch] = useState('')
+    const term = search.trim().toLowerCase()
+    const searchedItem = term ? apps.filter(app => app.title.trim().toLowerCase().includes(term)) : apps
+    console.log(searchedItem)
 
     return (
         <div className='flex flex-col items-center mt-16 md:px-2 lg:px-4'>
@@ -26,15 +28,22 @@ const Apps = () => {
                             <path d="m21 21-4.3-4.3"></path>
                         </g>
                     </svg>
-                    <input type="search" placeholder="Search Apps" className='text-lg' />
+                    <input onChange={e => setSearch(e.target.value)} value={search} type="search" placeholder="Search Apps" className='text-lg' />
                 </label>
             </div>
 
-            <div className="grid grid-cols-4 gap-4">
-                {
-                    apps.map(app => <AppCard key={app.id} app={app} />)
-                }
-            </div>
+            {
+                searchedItem.length == 0 ?
+                    <div className='mt-7 flex flex-col items-center gap-4'>
+                        <p className='text-2xl font-semibold'>No App Found</p>
+                        <button onClick={() => setSearch('')} className='btn btn-primary py-5 px-8 text-lg bg-linear-to-br from-[#632EE3] to-[#9F62F2] border-0 text-white'>Show All</button>
+                    </div> :
+                    <div className="grid grid-cols-4 gap-4">
+                        {
+                            searchedItem.map(app => <AppCard key={app.id} app={app} />)
+                        }
+                    </div>
+            }
 
         </div>
     );
