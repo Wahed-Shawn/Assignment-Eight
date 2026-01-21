@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import useFetchApps from '../hooks/useFetchApps';
 import AppCard from '../components/AppCard';
 
 const Apps = () => {
+    const[search,setSearch] = useState('')
     const{apps} = useFetchApps()
 
 
