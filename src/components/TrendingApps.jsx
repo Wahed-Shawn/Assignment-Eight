@@ -2,11 +2,12 @@ import React from 'react';
 import { FaChartLine } from 'react-icons/fa';
 import useFetchApps from '../hooks/useFetchApps';
 import AppCard from './AppCard';
+import { useNavigate } from 'react-router';
 
 const TrendingApps = () => {
-    const {apps} = useFetchApps()
-    const slicedData = apps.slice(0,8)
-    console.log(apps)
+    const navigate = useNavigate()
+    const { apps } = useFetchApps()
+    const slicedData = apps.slice(0, 8)
 
 
     return (
@@ -22,6 +23,9 @@ const TrendingApps = () => {
                     slicedData.map(app => <AppCard key={app.id} app={app} />)
                 }
             </div>
+
+            <button onClick={() => navigate('/apps')} className='btn btn-primary mt-10 py-5 px-8 text-lg bg-linear-to-br from-[#632EE3] to-[#9F62F2] border-0 text-white'>Show All</button>
+
         </div>
     );
 };
